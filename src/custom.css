@@ -1,0 +1,8 @@
+.bg-image-primary {
+    background-image: url('./../dist/img/bg-web.jpg'); 
+    /* background-image: url("dist/img/bg-web.jpg");  */
+    height: 100%; 
+    background-size: cover; 
+    background-position: center; 
+    filter: brightness(0.9);
+}
